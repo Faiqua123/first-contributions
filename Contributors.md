@@ -6957,4 +6957,4 @@
 - [hoi kayan](https://github.com/ipoobest)
 - [yamak](https://github.com/yamak)
 - [Tharindu Malshan](https://github.com/tharindumalshan1)
-  [Faiqua tahreen](https://github.com/Faiqua123)
+  [Faiqua Tahreen](https://github.com/Faiqua123)
